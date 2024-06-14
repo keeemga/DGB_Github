@@ -20,7 +20,9 @@ pip install numpy
 pip --trusted-hostpypi.org--trusted-hostfiles.pyrhonhosted.org install numpy
 ```
 
+
 ### 목차
+
 
 - [Day_OT](/Day_OT)
 - [data](/data)
@@ -28,6 +30,8 @@ pip --trusted-hostpypi.org--trusted-hostfiles.pyrhonhosted.org install numpy
 - [시각화]()
 - [가설검정]()
 - [머신러닝 및 특성공학]()
+
+
 
   ## 문의사항
   궁금한 사항이 있으면 메일 남겨주세요
