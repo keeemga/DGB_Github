@@ -35,4 +35,4 @@ _언더바 1 기울임_
 
 [Day_OT](/Day_OT)
 
-[텍스트 확인하기](/day_OT/hi.txt)
+[텍스트 확인하기](/Day_OT/hi.txt)
