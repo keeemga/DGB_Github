@@ -34,5 +34,6 @@ _언더바 1 기울임_
 ~~*취소선 기울임*~~
 
 [Day_OT](/Day_OT)
+![iM DiGital](/git_image.png)
 
 [텍스트 확인하기](/Day_OT/hi.txt)
