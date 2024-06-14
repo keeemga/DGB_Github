@@ -21,6 +21,7 @@ pip --trusted-hostpypi.org--trusted-hostfiles.pyrhonhosted.org install numpy
 ```
 
 ### 목차
+
 - [Day_OT](/Day_OT)
 - [data](/data)
 - [데이터 분석 기초]()
