@@ -4,11 +4,13 @@
 
 ![iM DiGital](/git_image.png)
 
+
 ## 필요한 라이브러리
   1. numpy
   2. pandas
   3. plotly
   4. missingno
+
 
 ### 설치방법
 
