@@ -20,6 +20,12 @@ pip install numpy
 pip --trusted-hostpypi.org--trusted-hostfiles.pyrhonhosted.org install numpy
 ```
 
+### 목차
+- 깃허브[Day_OT](/Day_OT)
+- [data](/data)
+- 
+
+
 들여쓰기
   1) 하나
   2) 둘
