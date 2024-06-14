@@ -24,6 +24,7 @@ pip --trusted-hostpypi.org--trusted-hostfiles.pyrhonhosted.org install numpy
 - [Day_OT](/Day_OT)
 - [data](/data)
 - [데이터_분석_기초](/데이터_분석_기초)
+- [데이터 분석 기초]()
 - [시각화](/시각화)
 - [가설검정](/가설검정)
 - [머신러닝_및_특성공학](/머신러닝_및_특성공학)
