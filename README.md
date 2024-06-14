@@ -4,6 +4,22 @@
 
 ![iM DiGital](/git_image.png)
 
+## 필요한 라이브러리
+  1. numpy
+  2. pandas
+  3. plotly
+  4. missingno
+
+### 설치방법
+
+```
+pip install numpy
+```
+만약 회사 내부망 보안으로 설치가 안된다면 다음 코드로 설치
+```
+pip --trusted-hostpypi.org--trusted-hostfiles.pyrhonhosted.org install numpy
+```
+
 들여쓰기
   1) 하나
   2) 둘
