@@ -1,6 +1,6 @@
 ## [대구은행] iM DiGital Banker Acaemy
 
-데이터 분석 전문가 양성과정
+> 데이터 분석 전문가 양성과정
 
 ![iM DiGital](/git_image.png)
 
