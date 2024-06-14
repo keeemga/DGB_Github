@@ -25,8 +25,8 @@ pip --trusted-hostpypi.org--trusted-hostfiles.pyrhonhosted.org install numpy
 
 ### 목차
 
-- [Day_OT](/Day_OT)
-- [data](/data)
+- [깃허브](/Day_OT)
+- [파이썬 기초 및 문법](/data)
 - [데이터 분석 기초]()
 - [시각화]()
 - [가설검정]()
@@ -35,8 +35,8 @@ pip --trusted-hostpypi.org--trusted-hostfiles.pyrhonhosted.org install numpy
 
 ## 문의사항
 
-  궁금한 사항이 있으면 메일 남겨주세요
-  im@digitalbanker.com
+궁금한 사항이 있으면 메일 남겨주세요
+im@digitalbanker.com
   
 
 
